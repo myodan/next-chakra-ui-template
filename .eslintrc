@@ -18,7 +18,7 @@
         "unnamedComponents": "arrow-function"
       }
     ],
-    "react/jsx-props-no-spreading": "off"
-  },
-  "exclude": ["next.config.js"]
+    "react/jsx-props-no-spreading": "off",
+    "import/prefer-default-export": "off"
+  }
 }
